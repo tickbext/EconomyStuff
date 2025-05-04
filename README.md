@@ -209,10 +209,6 @@
 
 ------------------------------------------------------------------------------
 
-Perfetto, preparerò un file Markdown con risposte chiare, approfondite e adatte a un'interrogazione scolastica su tutti e 27 i punti. Ogni risposta sarà ben sviluppata e strutturata per agevolare la memorizzazione e la comprensione.
-
-Ti avviso appena il file è pronto per il download.
-
 
 # Progetto e Economia: Domande e Risposte
 
